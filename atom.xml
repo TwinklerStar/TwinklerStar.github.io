@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Twinkler</title>
+  
+  <subtitle>Star</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-07-09T09:07:21.337Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Shu-Tong Qi 齐书同</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>About me</title>
+    <link href="http://yoursite.com/2020/07/09/About-me/"/>
+    <id>http://yoursite.com/2020/07/09/About-me/</id>
+    <published>2020-07-09T08:53:12.000Z</published>
+    <updated>2020-07-09T09:07:21.337Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h2><p>I have just graduated as an Excellent Graduate with a bachelor’s degree from Department of Electronics and Information Engineering, Beihang University in July, 2020. I was going to further my study by pursuing a Ph.D. degree in North America this fall, but the unexpected Covid-19 messes up all my plans. Hopefully, our world can go back to normal and I can continue my study. </p><p>Now, I am looking for an internship (a research assistant position is perfect) from 2020 fall to 2021 spring. If you are interested in working with me, please contact me through e-mail.</p><a id="more"></a><h2 id="Research-Experience"><a href="#Research-Experience" class="headerlink" title="Research Experience"></a>Research Experience</h2><p>I’m broadly interested in the area of <strong>electromganetics</strong>, <strong>signal processing</strong> and <strong>human-computer interaction (HCI)</strong>. From my perspective, basic research such as electromagnetics can make contributions to the development of HCI technique and the research in HCI can present a more clear view about underlying needs, application context and usability. So, combining these aspects together is a desirable way to create <em>magical</em> and <em>delightful</em> applications.</p><p>Since 2018, I have been working as an undergraduate researcher at the EMCTI under the supervision of Professor <a href="http://shi.buaa.edu.cn/renqiang/zh_CN/index.htm" target="_blank" rel="noopener">Qiang Ren</a>. We focus on accelerating computational electromagnetics methods via deep learning.</p><p>During the summer of 2019, I was a visiting student researcher at the <a href="https://www.cs.dartmouth.edu/~hci/" target="_blank" rel="noopener">XDiscovery Lab</a> from Dartmouth College, where I worked with Professor <a href="https://www.cs.dartmouth.edu/~xingdong/" target="_blank" rel="noopener">Xing-Dong Yang</a> and <a href="http://teyenwu.com/" target="_blank" rel="noopener">Te-yen Wu</a> on smart cloth. From this experience, I developed a strong interest in the study of HCI. After that, I had a short visit to the <a href="https://www.egr.msu.edu/ndel/" target="_blank" rel="noopener">NDE Lab</a> from Michigan State University, working with Professor <a href="https://www.egr.msu.edu/people/profile/dengyimi" target="_blank" rel="noopener">Yiming Deng</a> on the project Magna.</p><p>Previously, I had experience in signal processing in the project ADS-B and my first research project Multi-Antenna OFDM. </p><h2 id="Recent-News"><a href="#Recent-News" class="headerlink" title="Recent News"></a>Recent News</h2><ul><li>[07/2020] Graduate from Beihang University with an <strong>Excellent Graduate</strong> honor.</li><li>[06/2020] Submitted one paper to IEEE Access.</li><li>[05/2020] <a href="https://ieeexplore.ieee.org/document/9096576/" target="_blank" rel="noopener">One paper</a> got accepted by JMMCT.</li><li>[02/2020] Received the Ph.D. offer from <em>UIUC</em>, so excited!</li><li>[01/2020] Submitted one paper to <a href="https://ieeexplore.ieee.org/document/9096576" target="_blank" rel="noopener">JMMCT</a>.</li><li>[12/2019] One paper got accepted by <a href="https://chi2020.acm.org/" target="_blank" rel="noopener">CHI 20’</a></li><li>[09/2019] Finished my internship at Dartmouth College, a memorable experience! And submitted our paper <a href="https://dl.acm.org/doi/abs/10.1145/3313831.3376681" target="_blank" rel="noopener">Fabriccio</a> to CHI 20’. </li></ul>]]></content>
+    
+    <summary type="html">
+    
+      This is me!
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hello world</title>
+    <link href="http://yoursite.com/2020/07/09/hello-world/"/>
+    <id>http://yoursite.com/2020/07/09/hello-world/</id>
+    <published>2020-07-09T08:51:36.000Z</published>
+    <updated>2020-07-09T09:12:46.103Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><a id="more"></a><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      This is a try of cutting off.
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
